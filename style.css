@@ -105,8 +105,17 @@ body {
         border-top-right-radius: .5rem;
     }
 
+    .car-name {
+        font-size: 3rem;
+    }
+
+    .car-features {
+        font-size: 16px;
+    }
+
     .learn-more {
         margin-top: 3rem;
 
     }
+
 }
